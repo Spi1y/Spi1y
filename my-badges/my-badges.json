@@ -1,0 +1,65 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/Spi1y/tsp-solver/commit/af57317a71e680685c802fe36819d290a7ccd61d\"><strong>a</strong>f57317a71e680685c802fe36819d290a7ccd61d</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/Spi1y/tsp-solver/commit/ab60b343a2a92a01e75fe0322e194352550e73b6\"><strong>ab</strong>60b343a2a92a01e75fe0322e194352550e73b6</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/ab-commit.png?raw=true"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/nvtarhanov/TelegramMoneyKeeper/commit/c7ffeac1fe2fc79b75de33a5831be7d9d48207fe\">c7ffeac</a>\n- <a href=\"https://github.com/Spi1y/tsp-solver/commit/10aa8802ee39804c92319720ddda50992bd1a97e\">10aa880</a>\n- <a href=\"https://github.com/Spi1y/tsp-solver/commit/1312443c16651da71ba2d00c6da07712dc317faf\">1312443</a>\n- <a href=\"https://github.com/Spi1y/tsp-solver/commit/0de6d1a124b98759bc44fe371e13e5e232cc3e27\">0de6d1a</a>\n- <a href=\"https://github.com/Spi1y/tsp-solver/commit/0f25a32a67acf810424f76604fad2c36cfee0bf3\">0f25a32</a>\n- <a href=\"https://github.com/Spi1y/tsp-solver/commit/e7321981745a1c490411e421baaa06c9b8ecc5de\">e732198</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/github-anniversary/github-anniversary-5.png?raw=true"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Spi1y/tsp-solver/commit/dc5d607dd37fd007c8bae7101eea1cf6bcb92f8a\">dc5d607</a>: Fix tests\n- <a href=\"https://github.com/Spi1y/tsp-solver/commit/8a74a06c9ea4236582a81ef075601cb7ea792d07\">8a74a06</a>: Fix List.TrimTail: reversed order",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-2.png?raw=true"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/covid-19/covid-19.png?raw=true"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-2.png?raw=true"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 19 times)\n2. fix (used 13 times)\n3. refactor (used 11 times)\n4. for (used 11 times)\n5. tests (used 9 times)",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
+  },
+  {
+    "id": "rebel-coder",
+    "tier": 0,
+    "desc": "I am a rebel coder.",
+    "body": "I do not use words like \"thanks\" and \"please\" in my issues.\nStraight to the point!",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/rebel-coder.png?raw=true"
+  }
+]
